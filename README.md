@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @human-77
+- 👀 I’m interested in python, blockchain, artificial inteligence and all things involving automation.
